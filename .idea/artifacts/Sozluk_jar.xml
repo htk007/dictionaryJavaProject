@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Sozluk:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Sozluk_jar</output-path>
+    <root id="archive" name="Sozluk.jar">
+      <element id="module-output" name="Sozluk" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../mysql-connector-java-5.1.35-bin.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
